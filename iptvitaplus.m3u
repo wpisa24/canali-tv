@@ -183,5 +183,5 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 https://www.granducatotv.eu/tv/granducato/hls/?cid=346
 #EXTINF:-1 tvg-id="tv1.it" tvg-chno="903" tvg-logo="https://www.tv1.it/tv/wp-content/uploads/2023/12/cropped-LOGO_TV1PP.jpg" group-title="Regionali", TV1
 https://stream.mariatvcdn.com/tv1/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="mitology.it" tvg-chn0="904" tvg-logo="https://www.mitology.tv/wp-content/uploads/2023/09/MitologyTV-favicon-120x82.png" group-title="Radio",Mitology TV
+#EXTINF:-1 tvg-id="mitology.it" tvg-chno="904" tvg-logo="https://www.mitology.tv/wp-content/uploads/2023/09/MitologyTV-favicon-120x82.png" group-title="Radio",Mitology TV
 https://64b16f23efbee.streamlock.net:443/mitologytv/mitologytv/playlist.m3u8
