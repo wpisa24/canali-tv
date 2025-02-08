@@ -126,7 +126,7 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1  tvg-id="traveltv.it" tvg-chno="61" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2024/02/LOGO-TRAVEL-1080x650-1.png" group-title="Altro", TRAVEL TV
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Altro",Donna TV
-https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8?hdnts=exp=1739054508~acl=/*~hmac=042ba26fe03917aa1b8e944d9280f7a76198b765887cd8d4419845cef2edb4f7
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Altro",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="Altro",ALMA TV
