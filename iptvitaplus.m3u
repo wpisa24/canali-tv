@@ -191,3 +191,5 @@ https://stream.mariatvcdn.com/tv1/deb10bae362f810630ec3abedcae5894.sdp/playlist.
 https://64b16f23efbee.streamlock.net:443/mitologytv/mitologytv/playlist.m3u8
 #EXTINF:-1 tvg-id="tvl.it" tvg-chno="906" tvg-logo="https://tvl.it/photos/big-thumbs/logo-tvl-header.png" group-title="Regionali",TVL
 https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
+#EXTINF:-1
+https://dcb-ak-livedazn.akamaized.net/v0s4taacbw9a1mtwkx5o1zkyg/web/stream.mpd?channel=3944&outlet=dazn-italy&plang=it&static=1739039211&dazn-token=st%3D1739056465~exp%3D1739142865~acl%3D%2F*~id%3D17a5a7b31c17~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D62f237e135ea77a06d6a092fdd335d929bff62a09a60417cd2d64b103f06975b%23hashua%3D552a40ba9aa4108e1f5a756206a96010576b782a3be886e4de219b39ba61ba6b%23wm%3D0~hmac%3Dbd33ab57e492c5b9d9bd98d6e2767208141cb7e891d2a28fb1cfe72252d74d34
