@@ -185,6 +185,8 @@ https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/A2C6100B283BBDC574ADDC
 https://5f22d76e220e1.streamlock.net:443/gooooooooooo/gooooooooooo/playlist.m3u8
 #EXTINF:-1 tvg-id="bikechannel.com" tvg-chno="245" tvg-logo="https://www.tuttobiciweb.it/article/61979/photo-medium.jpg" group-title="Altro", BIKE Channel
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
+#EXTINF:-1 tvg-id="acisport.it" tvg.chno="246" tvg-logo="https://www.acisport.it/img/aci_sport_tv_live_logo.png" group-title="Altro", Aci Sport
+memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="tg38.it" tvg-chno="900" tvg-logo="https://www.digital-news.it/UserFiles/rtv38.jpg" group-title="Regionali", RTV38
 https://streamcdng22-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="telegranducato.it" tvg-chno="902" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Regionali",Granducato TV
