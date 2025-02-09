@@ -187,6 +187,8 @@ https://5f22d76e220e1.streamlock.net:443/gooooooooooo/gooooooooooo/playlist.m3u8
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTINF:-1 tvg-id="acisport.it" tvg-chno="246" tvg-logo="https://www.acisport.it/img/aci_sport_tv_live_logo.png" group-title="Altro", Aci Sport
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-id="plustv.it" tvg-chno="247" tvg-logo="https://plustv.it/wp-content/uploads/2024/05/cropped-PlusTV_White_canale-e1729174232864.png" group-title="Altro", Plus TV
+https://96vd9q7ryxq7-hls-live.mariatvcdn.it/ms/ea0e4a77baa23e917acaf517042ac7d8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="tg38.it" tvg-chno="900" tvg-logo="https://www.digital-news.it/UserFiles/rtv38.jpg" group-title="Regionali", RTV38
 https://streamcdng22-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="telegranducato.it" tvg-chno="902" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Regionali",Granducato TV
