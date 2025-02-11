@@ -206,6 +206,6 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 #EXTINF:-1 tvg-id="supersixtv.net" tvg-chno="909" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/supersix-logo.jpg?w=644&h=534&crop=1" group-title="Altro", Supersix
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 channel-id="61b86ea479a4390007c6d5fc" tvg-id="61b86ea479a4390007c6d5fc" tvg-chno="920" tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Altro", Euronews
-https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
+https://streamlink-iptv.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/B0zXsva0hYs
 #EXTINF:-1 channel-id="660bfc4424e1d000085b5f93" tvg-id="660bfc4424e1d000085b5f93" tvg-chno="545" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG.png" group-title="Altro", FIFA+
 https://jmp2.uk/plu-660bfc4424e1d000085b5f93.m3u8
