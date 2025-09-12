@@ -54,7 +54,7 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
-https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
 #EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="Altro",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
