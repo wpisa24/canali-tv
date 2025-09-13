@@ -21,7 +21,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
 #EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
-#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE HD
+#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -58,7 +58,7 @@ https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="Altro",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
-https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 #EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="Mediaset",Cine 34
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
@@ -68,17 +68,17 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radio",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
-https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
-https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="Mediaset",Boing
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Discovery",K2
-https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Discovery", K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
@@ -86,7 +86,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&force
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Discovery",Frisbee
-https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -104,7 +104,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
-https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia HD
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
@@ -112,7 +112,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-chno="56" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/homegardentv.png" group-title="Discovery",HGTV HD
-https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="Rai",Rai Scuola
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
@@ -120,7 +120,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&force
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
-https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Altro",Sportitalia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1  tvg-id="traveltv.it" tvg-chno="61" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2024/02/LOGO-TRAVEL-1080x650-1.png" group-title="Altro", Travel Tv
