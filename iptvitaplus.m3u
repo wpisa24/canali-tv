@@ -566,7 +566,7 @@ https://xite-germany-lg.amagi.tv/playlist.m3u8
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IT2500001IF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2500001IF_20240813T160038SQUARE.png" group-title="Musica" , Cool Summer Channel
 https://d3mza6qljp67l5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rpc4qub3zg7qt/csts.m3u8
-#EXTINF:-1 tvg-id="ITBC1100011RK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20230208T013201SQUARE.png_20230208013201.png" group-title="Musica",Rock TV
+#EXTINF:-1 tvg-id="ITBC1100011RK" tvg-logo="https://www.tvdream.net/img/rock-tv_476x249.jpg" group-title="Musica",Rock TV
 https://chili-rock-tv-1-it.xiaomi.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Musica",Xite Rock on
 https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
@@ -584,5 +584,5 @@ https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/607080stream/607080stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 80" tvg-id="" tvg-logo="" group-title="Musica", Radio 80
 https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Altre tv",CasaSanremo
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Musica",CasaSanremo
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
