@@ -200,9 +200,9 @@ https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-so
 https://origin.streamup.eu/sportitaliain/silive24/chunks.m3u8
 #EXTINF:-1 tvg-id="go-tv.org" tvg-chno="244" tvg-logo="https://www.go-tv.org/it/wp-content/uploads/2022/07/logo-go-tv-channel.png" group-title="Sport",GO-TV
 https://64b16f23efbee.streamlock.net:443/gooo/gooo/playlist.m3u8
-#EXTINF:-1 tvg-id="bikechannel.com" tvg-chno="245" tvg-logo="https://www.tuttobiciweb.it/article/61979/photo-medium.jpg" group-title="Altro",BIKE
+#EXTINF:-1 tvg-id="bikechannel.com" tvg-chno="245" tvg-logo="https://www.tuttobiciweb.it/article/61979/photo-medium.jpg" group-title="Sport",BIKE
 https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
-#EXTINF:-1 tvg-id="acisport.it" tvg-chno="246" tvg-logo="https://www.acisport.it/img/aci_sport_tv_live_logo.png" group-title="Altro", ACI Sport Tv
+#EXTINF:-1 tvg-id="acisport.it" tvg-chno="246" tvg-logo="https://www.acisport.it/img/aci_sport_tv_live_logo.png" group-title="Sport", ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-id="plustv.it" tvg-chno="247" tvg-logo="https://local-tv.it/uploads/cache/poster_thumb/uploads/jpg/548043602c35144fc0ed6b79b6ff96ec.jpg" group-title="Sport", Plus TV Sport
 https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
