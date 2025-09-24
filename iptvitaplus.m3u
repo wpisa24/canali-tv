@@ -586,3 +586,67 @@ https://5a1178b42cc03.streamlock.net/607080stream/607080stream/playlist.m3u8
 https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Musica",CasaSanremo
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-name="Rai 1" tvg-id=""tvg-logo="" group-title="Estero", Rai 1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 group-title="Estero",Rai 1 Europa
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#EXTINF:-1 tvg-name="Rai 2" tvg-id=""tvg-logo="" group-title="Estero", Rai 2
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 group-title="Estero",Rai 2 Europa
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#EXTINF:-1 tvg-name="Rai 3" tvg-id=""tvg-logo="" group-title="Estero", Rai 3
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 group-title="Estero",Rai 3 Europa
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+#EXTINF:-1 tvg-name="Rete 4" tvg-id=""tvg-logo="" group-title="Estero", Rete 4
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 tvg-name="Canale 5" tvg-id=""tvg-logo="" group-title="Estero", Canale 5
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 tvg-name="Italia 1" tvg-id=""tvg-logo="" group-title="Estero", Italia 1
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 tvg-name="La 7" tvg-id=""tvg-logo="" group-title="Estero", La 7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 tvg-name="Nove" tvg-id=""tvg-logo="" group-title="Estero", Nove
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd
+#EXTINF:-1 tvg-name="La 7d" tvg-id=""tvg-logo="" group-title="Estero", La 7d
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 tvg-name="DMAX" tvg-id=""tvg-logo="" group-title="Estero", DMAX
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1687937411694-rai-world.png" group-title="Estero",RAI World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:-1 tvg-name="Rai Gulp" tvg-id=""tvg-logo="" group-title="Estero", Rai Gulp
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 tvg-name="Boing" tvg-id=""tvg-logo="" group-title="Estero",Boing
+https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoonito" tvg-id=""tvg-logo="" group-title="Estero",Cartoonito
+https://liveturner.akamaized.net/95b0be1a00834dd2b81c021bc5a35b9c/eu-central-1/6284318116001/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai Scuola" tvg-id=""tvg-logo="" group-title="Estero", Rai Scuola
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 group-title="Estero",Rai Scuola Europa
+https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-name="Rai Storia" tvg-id=""tvg-logo="" group-title="Estero", Rai Storia
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
+#EXTINF:-1 group-title="Estero",Rai Storia Europa
+https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-name="Rai News 24" tvg-id=""tvg-logo="" group-title="Estero", Rai News 24
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 tvg-name="TGCOM24" tvg-id=""tvg-logo="" group-title="Estero", TGCOM24
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
+#EXTINF:-1 group-title="Estero",RAI News 24 Europa HD
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 tvg-name="Rai Sport" tvg-id="" tvg-logo="" group-title="Estero", Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-name="RaiItalia.it" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Estero", Rai Italia Europa
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+#EXTINF:-1 tvg-name="RaiItalia.it" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Estero", Rai Italia America
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+#EXTINF:-1 tvg-name="RaiItalia.it" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Estero", Rai Italia Australia
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rete Italia
+https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
+#EXTINF:-1 group-title="Estero",Mediaset Italia
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:-1 group-title="Estero" tvg_logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1664420072356-LA7_500x500.png",LA7 Italia
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
