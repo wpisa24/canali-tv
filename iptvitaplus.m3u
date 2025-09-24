@@ -212,3 +212,5 @@ https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648
 https://64b16f23efbee.streamlock.net:443/mitologytv/mitologytv/playlist.m3u8
 #EXTINF:-1 tvg-id="supersixtv.net" tvg-chno="909" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/supersix-logo.jpg?w=644&h=534&crop=1" group-title="Altro", Supersix
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 tvg-chno="45" tvg-id="PlutoSuperStar.it" tvg-logo="https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG.png" tvg-chno="45" group-title="Bambini",Super! Cartoni animati
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=samsung
