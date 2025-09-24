@@ -28,7 +28,7 @@ https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist/amg008
 #EXTINF:-1 tvg-id="tg38.it" tvg-chno="11" tvg-logo="https://www.digital-news.it/UserFiles/rtv38.jpg" group-title="Regionali", RTV38
 https://streamcdng22-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="telegranducato.it" tvg-chno="12" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Regionali",Granducato Tv
-https://www.granducatotv.eu/tv/granducato/hls/?cid=346
+https://www.granducatotv.eu/tv/granducato/hls/index.flashls.m3u8.php?cid=0&m3u8=.m3u8
 #EXTINF:-1 tvg-id="tvl.it" tvg-chno="13" tvg-logo="https://tvl.it/photos/big-thumbs/logo-tvl-header.png" group-title="Regionali",TVL
 https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="50canale.it" tvg-chno="14" tvg-logo="https://50canale.tv/wp-content/uploads/2024/04/50canale-TR-scaled.jpg" group-title="Regionali",50 Canale HD
