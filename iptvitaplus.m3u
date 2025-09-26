@@ -43,7 +43,7 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 https://amg01444-tennischannelth-tennischde-samsungch-jp1l8.amagi.tv/playlist/amg01444-tennischannelth-tennischde-samsungch/playlist.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-id="EQU TV" tvg-logo="https://yt3.googleusercontent.com/8QDnPDSE5S2Z4MsI52xKUDm2qls8auwagBKoAvIiPp5YkfgvhPNnckPTD8zYc0HjruOB6fzO=s900-c-k-c0x00ffffff-no-rj" group-title="Sport",EQU TV
 https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
-#EXTINF:-1 tvg-id="20Mediaset" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
+#EXTINF:-1 tvg-id="20Mediaset" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Rai 4" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
