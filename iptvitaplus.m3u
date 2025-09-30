@@ -141,7 +141,7 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 tvg-id="Sportitalia" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Sport",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
-#EXTINF:-1  tvg-id="Il61" tvg-chno="61" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2025/07/IL-61-CANALE.png" group-title="Altro", il61
+#EXTINF:-1  tvg-id="iL61.it" tvg-name="iL61" tvg-chno="61" tvg-logo="https://www.grupposciscione.it/wp-content/uploads/2025/07/IL-61-CANALE.png" group-title="Altro", il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="Donna TV" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Altro",Donna Tv
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
