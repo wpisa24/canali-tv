@@ -228,9 +228,10 @@ https://distribution.sportitalialive.it/sportitalia/sihd_abr2/sportitalia/sihd_1
 https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/sportitalia/sisolocalcio_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="WPT" tvg-chno="940"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/4d/Logo_WPT.png" group-title="Sport", World Poker tour
 https://amg00218-amg00218c1-wedotv-eu-7512.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-wedotveu/playlist.m3u8
-#EXTINF:-1 tvg-name="LA7CINEMA" tvg-id="LA7CINEMA.it" tvg-logo="https://www.touchpoint.news/app/uploads/2025/09/La7-Cinema-logo-300x230.png"  group-title="Altro",LA7CINEMA(test)
-https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/HLS/Live.m3u8
-
+#EXTINF:-1 tvg-name="Noi TV" tvg-id="NoiTV.it" tvg-logo="https://www.tvdream.net/img/noitv-cover.jpg" group-title="Regionali",NOI TV
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhYTcxMTEwOWZkNzJhZWRjMmFkYmE4NDJhOWM1Mjg5NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzYwMTcyNzk3LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.n1GyzW1CCLH5Jmmpv03sA0bhl9JtZgpo3kOgIuia7JnVCrXI16PjzJ9lW3xywue13e5kMEyrHCILSgJnbYXNDEOdlmmXMTK_o798yuZuDmwAmuepeWvk2iVErUoIw3lj3myNVAgrOltuekw3zgg9_-cqWOz3NKO61X3klvg6oJ3qlDwVf8qv812MxJ1mu7epWYRqk22ixJeFlV4_fuRsRFpAlmU3a4TdNvnTUZzYWIDl55ij_JHQULiy7KyZFuqIHQqKa0qvn6x2Z68lhoyFdcajJAUK4TFfDmEcNfuex8LpUYD-7JVMsrtLAHkFvhtAIakJGJc6mEt6u175YOJniw/manifest/video.m3u8?CMCD=cid%3D%221760129598871%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a7341de7-009f-4152-9507-180bf4b5a55b%22%2Csu
+#EXTINF:-1 tvg-name="TV9 Telemaremma" tvg-id="TV9Telemaremma.it" tvg-logo="https://www.tv9italia.it/wp-content/uploads/2024/11/logo-new.png" group-title="Regionali",TV9 Telemaremma
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/6339ee65498e3ca8e75590daa7e447f5/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Film Top - Rakuten TV" tvgid="RakutenTopFreeItRakutenTv.it" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100007FN_20221012T021057SQUARE.png_20221012021057.png" group-title="Film",Film Top - Rakuten TV
