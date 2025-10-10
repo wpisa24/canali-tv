@@ -229,7 +229,7 @@ https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/sportitalia
 #EXTINF:-1 tvg-id="WPT" tvg-chno="940"  tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/4d/Logo_WPT.png" group-title="Sport", World Poker tour
 https://amg00218-amg00218c1-wedotv-eu-7512.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-wedotveu/playlist.m3u8
 #EXTINF:-1 tvg-name="LA7CINEMA" tvg-id="LA7CINEMA.it" tvg-logo="https://www.touchpoint.news/app/uploads/2025/09/La7-Cinema-logo-300x230.png"  group-title="Altro",LA7CINEMA(test)
-https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/HLS/Live.m3u8
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 
 
 
